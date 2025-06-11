@@ -1,6 +1,9 @@
 {
 	"name": "jecs",
 	"tree": {
-		"$path": "jecs.luau"
+		"$className": "Folder",
+		"jecs": {
+			"$path": "jecs.luau"
+		}
 	}
 }
